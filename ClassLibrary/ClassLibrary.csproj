@@ -41,7 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="clsAdmin.cs" />
     <Compile Include="clsDataConnection.cs" />
+    <Compile Include="clsGenre.cs" />
+    <Compile Include="clsRecommendations.cs" />
+    <Compile Include="clsReview.cs" />
+    <Compile Include="clsShowAndMovie.cs" />
+    <Compile Include="clsUser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
