@@ -43,7 +43,6 @@
   <ItemGroup>
     <Compile Include="clsAdmin.cs" />
     <Compile Include="clsDataConnection.cs" />
-    <Compile Include="clsGenre.cs" />
     <Compile Include="clsRecommendations.cs" />
     <Compile Include="clsReview.cs" />
     <Compile Include="clsShowAndMovie.cs" />
