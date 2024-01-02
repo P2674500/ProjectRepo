@@ -22,7 +22,7 @@ namespace Testing2
         {
             clsShowAndMovie AShowOrMovie = new clsShowAndMovie();
             //create some test data to assign to the property
-            Boolean TestData = true;
+            string TestData = "The Lost Kingdom";
             //assign the data to the property
             AShowOrMovie.Title = TestData;
             //test to see that the two values are the same
