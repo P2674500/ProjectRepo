@@ -8,7 +8,7 @@ namespace ClassLibrary
         {
         }
 
-        public bool Title { get; set; }
+        public string Title { get; set; }
         public DateTime ReleaseDate { get; set; }
         public TimeSpan RunTime { get; set; }
         public string Description { get; set; }
