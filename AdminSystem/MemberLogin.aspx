@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="UserLogin.aspx.cs" Inherits="Login" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="MemberLogin.aspx.cs" Inherits="Login" %>
 
 <!DOCTYPE html>
 
@@ -7,8 +7,8 @@
     <title></title>
     <style type="text/css">
         #form1 {
-            height: 500px;
-            width: 1099px;
+            height: 640px;
+            width: 1316px;
         }
     </style>
 </head>
